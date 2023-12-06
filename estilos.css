@@ -1,0 +1,17 @@
+header{
+    background-color: black;
+}
+.nosotros{
+    text-align: justify;
+    line-height: 2em;
+}
+.carousel.inner{
+    max-height: 39-rem;
+}
+.button{
+    text-align: center;
+}
+ .mirian img{
+    width: 400;
+    height:300px;
+ }
